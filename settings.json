@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " i_see_you_GRANNY.aternos.me",
+    "ip": " i_see_you_GRANNY.aternos.me:34432",
     "port": 34432,
     "version": "",
     "try-creative": false
